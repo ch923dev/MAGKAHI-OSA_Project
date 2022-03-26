@@ -43,10 +43,10 @@
                             <nav aria-label="" class="">
                                 <ul class="pagination justify-content-center">
                                     <li class="page-item">
-                                        <a class="page-link fa-thin fa-circle" href="#" tabindex="-1"></a>
+                                        <a class="page-link" href="#" tabindex="-1"> <i class="fa-thin fa-circle"></i> </a>
                                     </li>
                                     <li class="page-item">
-                                        <a class="page-link fa-thin fa-circle" href="#"></a>
+                                        <a class="page-link" href="#"><i class="fa-thin fa-circle"></i> </a>
                                     </li>
                                 </ul>
                             </nav>
